@@ -5,7 +5,7 @@
 * **Nama:** Muhammad Daffa Samudra
 * **NIM:** 233307054
 * **Repo:** [Blood-Transfusion-Model](https://github.com/daffasamudra/Blood-Transfusion-Model.git)
-* **Video:** [Link Video Demo/Penjelasan Anda Di Sini](https://drive.google.com/drive/folders/1PEU-K95x_u5mSGGtHYTkewnVcRTPLJlP?usp=sharing)
+* **Video:** [Link Video Demo](https://drive.google.com/drive/folders/1PEU-K95x_u5mSGGtHYTkewnVcRTPLJlP?usp=sharing)
 
 ---
 
