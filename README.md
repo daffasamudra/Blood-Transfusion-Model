@@ -40,8 +40,6 @@ Menentukan algoritma terbaik antara pendekatan klasik, ensemble, dan deep learni
 
 📁 Struktur Folder
 
-📁 Struktur Folder
-
 project/
 │
 ├── data/                                   # Dataset sumber (transfusion.data)
