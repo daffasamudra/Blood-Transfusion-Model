@@ -40,35 +40,31 @@ Menentukan algoritma terbaik antara pendekatan klasik, ensemble, dan deep learni
 
 📁 Struktur Folder
 
+📁 Struktur Folder
+
 project/
 │
-├── data/                               # Dataset sumber
-│   └── transfusion.data
-│
-├── images/                             # Hasil visualisasi & plot evaluasi
+├── data/                                   # Dataset sumber (transfusion.data)
+├── images/                                 # Hasil visualisasi & plot evaluasi
 │   ├── Matriks-Korelasi-Antar-Fitur.jpg
-│   ├── Persentase Pendonor (1) vs Bukan Pendonor (0).jpg
+│   ├── Persentase Pendonor... .jpg
 │   ├── SEBARAN-FITUR.jpg
 │   ├── Tabel-Banding.jpg
 │   ├── VISUAL-KNN.jpg
 │   ├── VISUAL-RF.jpg
 │   └── Visual-MLP.jpg
-│
-├── models/                             # Model yang sudah dilatih
+├── models/                                 # Model yang sudah dilatih (.pkl)
 │   ├── model_deeplearning.pkl
 │   ├── model_knn.pkl
 │   └── model_rf.pkl
-│
-├── notebooks/                          # Jupyter Notebook utama
+├── notebooks/                              # Jupyter Notebook utama
 │   └── UAS_DATA_SIENCE_Transfusion.ipynb
-│
-├── src/                                # Source code pendukung (jika ada)
-│
-├── Cheklist Submit.md                  # File checklist
-├── LAPORAN PROYEK AKHIR MATA KULIAH.docx # Laporan lengkap proyek
-├── LICENSE                             # Lisensi proyek
-├── README.md                           # Dokumentasi proyek ini
-└── requirements.txt                    # Daftar library & dependencies
+├── src/                                    # Source code pendukung (jika ada)
+├── Cheklist Submit.md                      # File checklist
+├── LAPORAN PROYEK AKHIR MATA KULIAH.docx   # Laporan lengkap proyek
+├── LICENSE                                 # Lisensi proyek
+├── README.md                               # Dokumentasi proyek ini
+└── requirements.txt                        # Daftar library & dependencies
 
 
 3. 📊 Dataset
